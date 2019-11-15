@@ -1,2 +1,13 @@
 shapely==1.6.4.post2
 geojson==2.4.1
+sqlalchemy
+mysqlclient
+pymssql
+raven
+openpyxl
+xlrd
+xlwt
+pysftp
+pygount
+py3o.template
+py3o.formats
